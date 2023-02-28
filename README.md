@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome to my Profile 👋
+Summary :
+-  I am a Computer Engineering student at Tanta University ,Egypt.I love data and love being engaged with it.I always learn new things. 
 
 <!--
 **AHMED-salah00/AHMED-salah00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### My skills :
+[![My Skills](https://skillicons.dev/icons?i=,git,github,linux,py,sqlite,mysql,postgresql,cpp,vscode)](https://skillicons.dev)
+
+_______________________________________________________________________
+![AnTi's github stats](https://github-readme-stats.vercel.app/api?username=AHMED-salah00&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+_______________________________________________________________________
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/>
+
