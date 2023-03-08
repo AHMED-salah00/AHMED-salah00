@@ -1,6 +1,6 @@
 ### Welcome to my Profile 👋
 Summary :
--  I am a Computer Engineering student at Tanta University ,Egypt.I love math and data and love being engaged with it.I always learn new things.I use multiple tools like : Pandas, numpy, matplotlib, sql ,etc...I also use machine learning and TS Analysis in my predictions.
+-  I am a Computer Engineering student at Tanta University ,Egypt.I love math and data and love dealing with it.I always learn new things.I use multiple tools like : Pandas, numpy, matplotlib, sql ,etc...I also use machine learning and TS Analysis in my predictions.
 
 <!--
 **AHMED-salah00/AHMED-salah00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
