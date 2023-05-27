@@ -1,6 +1,6 @@
 ### Welcome to my Profile 👋
 Summary :
--  I am a computere engineering student, who loves coding, learning new things, making new friends...
+-  I am a computere engineering student, who loves coding, learning new things, and making new friends...
 
 <!--
 **AHMED-salah00/AHMED-salah00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
