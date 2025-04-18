@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=,git,github,linux,py,html,sqlite,mysql,postgresql,cpp,cs,vscode,discord)](https://skillicons.dev)
 
 _______________________________________________________________________
-![AnTi's github stats](https://github-readme-stats.vercel.app/api?username=AHMED-salah00&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&PAT_1)
+![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=AHMED-salah00&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&PAT_1)
 _______________________________________________________________________
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AHMED-salah00&layout=compact&PAT_1"/>
  -->
