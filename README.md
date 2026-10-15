@@ -1,7 +1,7 @@
-I build things at the intersection of **AI and data** — LLM-powered agents, automated reporting pipelines, and dashboards that actually get used.
+I build things at the intersection of **AI and data**, LLM-powered agents, automated reporting pipelines, and dashboards that actually get used.
 Over the past 3+ years I've shipped production solutions for clients across the **EU, USA, and MENA** using LangChain, Azure OpenAI, Power BI, and SQL.
 
-My graduation research took LLMs beyond chat — using them as an **evolutionary engine** to autonomously design metaheuristic algorithms,
+My graduation research took LLMs beyond chat, using them as an **evolutionary engine** to autonomously design metaheuristic algorithms,
 cutting the optimality gap from 23% down to **5.5%** on classical NP-hard benchmarks. Currently working on LLM agent infrastructure and WMS data systems.
 
 ---
